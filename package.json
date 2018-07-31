@@ -1,0 +1,32 @@
+{
+  "name": "wineshop",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0",
+    "ws": "3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Srinithya-vutukuru/wineshop"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
